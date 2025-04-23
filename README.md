@@ -1,40 +1,99 @@
 # Triangular-String-Theory-Experiments
 
-**Experimental protocols and simulations for validating Triangular-Coupled String Theory (T-CST)**
+This repository contains experimental protocols, data simulations, and analytical tools aimed at validating key predictions of the **Triangular-Coupled String Theory (T-CST)**—a novel framework that integrates spacetime geometry, consciousness, and quantum fields via triangular dimensional structures.
+
+## Overview
+
+Triangular-Coupled String Theory (T-CST) introduces a new dimensional model in which spacetime and consciousness co-evolve through a triadic structure of interlinked temporal and scalar fields, denoted as **T₁, T₂, T₃**. This repository supports the theoretical development by providing a bridge between abstract formulations and potential experimental validation strategies.
+
+## Goals
+
+- To simulate 40Hz Φ-resonance using EEG/MEG data, testing triangular consciousness field coupling.
+- To analyze decoherence patterns in Bose-Einstein Condensates influenced by triangular field interference.
+- To assess particle collision outcomes (e.g., triplet-jet symmetry anomalies) in LHC data under T-CST assumptions.
+- To build numerical models of field evolution on triangulated lattices.
+- To investigate symmetry, quantization, and anomaly cancellation mechanisms via experiment-informed modeling.
+
+## Repository Structure
+
+
+## Key Concepts
+
+- **Triangular Field Constraints:**  
+  Enforced by \( T_1 + T_2 + T_3 = 0 \), modeling time and consciousness as a closed loop geometry.
+
+- **Φ-field Resonance Hypothesis:**  
+  Predicts measurable coherence at 40Hz in meditator brain activity due to alignment with triangular consciousness fields.
+
+- **T-CST Spectrum Deviation:**  
+  Proposes extensions to string vibration spectra under influence of triangular dimensions, testable through high-energy collider data.
+
+## How to Contribute
+
+1. Fork this repository.
+2. Create a feature or experiment branch: `git checkout -b eeg-40hz-trial`
+3. Commit your changes: `git commit -am 'Added EEG resonance script'`
+4. Push to the branch: `git push origin eeg-40hz-trial`
+5. Open a Pull Request.
+
+## License
+
+[MIT License](https://choosealicense.com/licenses/mit/)
 
 ---
 
-## 🌌 Overview
+This repository is part of a broader initiative to formulate and experimentally validate a comprehensive **Theory of Everything** integrating space, time, consciousness, and matter via **triangular dimensional coupling**.
 
-This repository contains experimental designs and computational simulations to test predictions from the **Triangular-Coupled String Theory (T-CST)** — a novel theoretical physics framework that integrates time, space, and consciousness through a triangular dimensional structure.
+## Key Concepts
 
----
+- **Triangular Field Constraints:**  
+  Enforced by \( T_1 + T_2 + T_3 = 0 \), modeling time and consciousness as a closed loop geometry.
 
-## 🎯 Objectives
+- **Φ-field Resonance Hypothesis:**  
+  Predicts measurable coherence at 40Hz in meditator brain activity due to alignment with triangular consciousness fields.
 
-- Validate **triangular time resonance** using neurophysiological tools (e.g., MEG, EEG)
-- Explore **Φ-field coherence** at 40 Hz (gamma band) in conscious states
-- Test decoherence suppression in **Bose-Einstein Condensates (BECs)**
-- Analyze **triplet-jet anomalies** at the LHC for potential T-CST particle signatures
+- **T-CST Spectrum Deviation:**  
+  Proposes extensions to string vibration spectra under influence of triangular dimensions, testable through high-energy collider data.
 
----
+## How to Contribute
 
-## 🔬 Experimental Protocols
+1. Fork this repository.
+2. Create a feature or experiment branch: `git checkout -b eeg-40hz-trial`
+3. Commit your changes: `git commit -am 'Added EEG resonance script'`
+4. Push to the branch: `git push origin eeg-40hz-trial`
+5. Open a Pull Request.
 
-### 1. 🧠 40Hz Φ-Field MEG Analysis
-- **Setup**: 256-channel EEG + SQUID-MEG
-- **Participants**: Experienced meditators & control group
-- **Focus**: SU(2) coherence, gamma synchrony, phase-locking
+## License
 
-### 2. ❄️ Bose-Einstein Condensate Decoherence
-- **Environment**: Cryogenic isolation + quantum gas microscopy
-- **Goal**: Detect deviation from standard decoherence under T-CST conditions
-
-### 3. 💥 LHC Triplet-Jet Analysis
-- **Data**: CMS/ATLAS open datasets
-- **Focus**: Anomaly detection of triple-gluon-like jets under triangular symmetry
+[MIT License](https://choosealicense.com/licenses/mit/)
 
 ---
 
-## 📁 Repository Structure (Planned)
+This repository is part of a broader initiative to formulate and experimentally validate a comprehensive **Theory of Everything** integrating space, time, consciousness, and matter via **triangular dimensional coupling**.
 
+## Key Concepts
+
+- **Triangular Field Constraints:**  
+  Enforced by \( T_1 + T_2 + T_3 = 0 \), modeling time and consciousness as a closed loop geometry.
+
+- **Φ-field Resonance Hypothesis:**  
+  Predicts measurable coherence at 40Hz in meditator brain activity due to alignment with triangular consciousness fields.
+
+- **T-CST Spectrum Deviation:**  
+  Proposes extensions to string vibration spectra under influence of triangular dimensions, testable through high-energy collider data.
+
+## How to Contribute
+
+1. Fork this repository.
+2. Create a feature or experiment branch: `git checkout -b eeg-40hz-trial`
+3. Commit your changes: `git commit -am 'Added EEG resonance script'`
+4. Push to the branch: `git push origin eeg-40hz-trial`
+5. Open a Pull Request.
+
+## License
+
+[MIT License](https://choosealicense.com/licenses/mit/)
+
+---
+
+This repository is part of a broader initiative to formulate and experimentally validate a comprehensive **Theory of Everything** integrating space, time, consciousness, and matter via **triangular dimensional coupling**.
